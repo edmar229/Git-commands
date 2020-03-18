@@ -1,2 +1,2 @@
 ## Initialize Git
-[`git init`]
+`git init`
