@@ -1,1 +1,2 @@
-
+## Initialize Git
+[`git init`]
